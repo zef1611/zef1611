@@ -1,6 +1,5 @@
 <h2><em> Hi, I'm Huy Le :wave: </em></h2>
--🌱 I’m currently an AI Research FPT Software AI Center at [**FPT Software AI Center**](https://fpt-aicenter.com/ai-residency/)
-
+-🌱 I’m currently an AI Research FPT Software AI Center at  [**VinAI**](https://www.vinai.io/ai-residency/)
 ### 🔭 Research Interest
 My current research interest includes **Multimodal Learning** and **Video Understanding**.
 
