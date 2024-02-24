@@ -7,6 +7,6 @@ My current research interest includes **Multimodal Learning** and **Video Unders
 
 My research interests broadly lie in the areas of <b>Computer Vision</b> and <b>Deep Learning</b>, including:
 - <strong style="font-size:15px;color:#8aa371">Cross-Modal Learning</strong> (2023-Present): Video-Language Matching, Explaindable Multimodal AI, Parameter-Efficient Fine-Tuning (PEFT).
-- <strong style="font-size:15px;color:#8aa371">Intelligent Traffic Systems Applications</strong> (2021-2023): Vehicle Re-Identification, Tracked-Vehicle to Video Retrieval.
+- <strong style="font-size:15px;color:#8aa371">Intelligent Traffic Systems Applications</strong> (2021-2023): Tracked-Vehicle to Video Retrieval, Vehicle Re-Identification, Vehicle Tracking.
 
 ![](https://komarev.com/ghpvc/?username=zef1611&color=blueviolet&style=flat-square)
