@@ -2,11 +2,19 @@
 
 -🌱 I’m currently an AI Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
 
-### 🔭 Research Interest
-My current research interest includes **Multimodal Learning** and **Image/Video Understanding**, including:
+### 🔭 Research Interests
+Research topics:
 
-- <strong style="font-size:15px;color:#8aa371">Efficient Cross-Modal Learning & Understanding</strong> (2023-Present): Video-Language Matching, Parameter-Efficient Fine-Tuning (PEFT), Multimodal Compositionality, Structured Representation (Scene Graph Generation).
+- <strong style="font-size:15px;color:#8aa371">Large Multimodal Models Reasoning</strong>
 
-- <strong style="font-size:15px;color:#8aa371">Intelligent Industrial/Traffic Systems Applications</strong> (2021-2023): Tracked-Vehicle to Video Retrieval, Person/Vehicle Re-Identification, Person/Vehicle Tracking, Face Recognition/Verification.
+- <strong style="font-size:15px;color:#8aa371">Multimodal (Vision-Language) Compositionality</strong>
+
+- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models</strong>: Parameter-Efficient Fine-Tuning (PEFT), Small models, Knowledge Distillation.
+
+My current research experience comprises of **Intelligent Industrial Systems**, **Multimodal Learning** and **Image/Video Understanding**, including:
+
+- [2023-Present] <strong style="font-size:15px;color:#8aa371">Efficient Cross-Modal Learning & Understanding</strong>: Video-Language Matching, Parameter-Efficient Fine-Tuning (PEFT), Multimodal Compositionality, Structured Representation (Scene Graph Generation).
+
+- [2021-2023] <strong style="font-size:15px;color:#8aa371">Intelligent Industrial/Traffic Systems Applications</strong>: Tracked-Vehicle to Video Retrieval, Person/Vehicle Re-Identification, Person/Vehicle Tracking, Face Recognition/Verification.
 
 ![](https://komarev.com/ghpvc/?username=zef1611&color=blueviolet&style=flat-square)
