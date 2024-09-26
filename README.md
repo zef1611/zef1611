@@ -3,13 +3,11 @@
 -🌱 I’m currently an AI Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
 
 ### 🔭 Research Interests
-Research topics:
+- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Reasoning: Multimodal Large Language Model (MLLM), Vision-Language Model (VLM). Ch</strong>
 
-- <strong style="font-size:15px;color:#8aa371">Large Multimodal Models Reasoning</strong>
+- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Understanding: Vision-Language Compositionality</strong>
 
-- <strong style="font-size:15px;color:#8aa371">Multimodal (Vision-Language) Compositionality</strong>
-
-- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models</strong>: Parameter-Efficient Fine-Tuning (PEFT), Small models, Knowledge Distillation.
+- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models</strong>: Parameter-Efficient Fine-Tuning (PEFT) (Efficient Training), Small Model (Efficient Inference), Token Merging (Efficient Input).
 
 My current research experience comprises of **Intelligent Industrial Systems**, **Multimodal Learning** and **Image/Video Understanding**, including:
 
