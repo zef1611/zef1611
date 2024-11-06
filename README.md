@@ -7,7 +7,7 @@
 
 - <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Generation:</strong> Image/Video Understanding, Visual Programming, Multimodal Chatbot, Embodied Agent.
 
-- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models:</strong> Parameter-Efficient Fine-Tuning (PEFT) (Efficient Training), Small Models (Efficient Inference), Token Merging (Efficient Input).
+- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models:</strong> Parameter-Efficient Fine-Tuning (PEFT) (Efficient Training), Small Models (Efficient Inference), Token Merging/Pruning (Efficient Input).
 
 My current research experience comprises of **Intelligent Surveillance Systems**, **Image/Video Understanding**, **Multimodal Learning** and **PEFT** including:
 
