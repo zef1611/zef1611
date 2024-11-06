@@ -1,6 +1,6 @@
 <h2><em> Hi, I'm Huy Le :wave: </em></h2>
 
--🌱 I’m currently an AI Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
+-🌱 I’m currently an AI Research Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
 
 ### 🔭 Research Interests
 - <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Reasoning & Understanding:</strong> Large Multimodal Model (LMM), Vision-Language Model (VLM), Vision-Language Compositionality, Structured Representation.
