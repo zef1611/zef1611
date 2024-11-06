@@ -3,13 +3,13 @@
 -🌱 I’m currently an AI Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
 
 ### 🔭 Research Interests
-- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Reasoning:</strong> Multimodal Large Language Model (MLLM), Vision-Language Model (VLM).
+- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Reasoning & Understanding:</strong> Large Multimodal Model (LMM), Vision-Language Model (VLM), Vision-Language Compositionality, Structured Representation.
 
-- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Understanding:</strong> Vision-Language Compositionality, Structured Representation.
+- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Generation:</strong> Image/Video Understanding, Visual Programming, Multimodal Chatbot, Embodied Agent.
 
 - <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models:</strong> Parameter-Efficient Fine-Tuning (PEFT) (Efficient Training), Small Models (Efficient Inference), Token Merging (Efficient Input).
 
-My current research experience comprises of **Intelligent Industrial Systems**, **Multimodal Learning** and **Image/Video Understanding**, including:
+My current research experience comprises of **Intelligent Surveillance Systems**, **Image/Video Understanding**, **Multimodal Learning** and **PEFT** including:
 
 - [2023-Present] <strong style="font-size:15px;color:#8aa371">Efficient Cross-Modal Learning & Understanding</strong>: Video-Language Matching, Parameter-Efficient Fine-Tuning (PEFT), Multimodal Compositionality, Structured Representation (Scene Graph Generation).
 
