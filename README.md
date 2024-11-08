@@ -3,11 +3,11 @@
 -🌱 I’m currently an AI Research Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
 
 ### 🔭 Research Interests
-- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Reasoning & Understanding:</strong> Large Multimodal Model (LMM), Vision-Language Model (VLM), Vision-Language Compositionality, Structured Representation.
+- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Reasoning & Understanding:</strong> (Large) Multimodal Model (LMM), Image/Video Understanding, Vision-Language Compositionality, Structured Representation.
 
-- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Generation:</strong> Image/Video Understanding, Visual Programming, Multimodal Chatbot, Embodied Agent.
-
-- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models:</strong> Parameter-Efficient Fine-Tuning (PEFT) (Efficient Training), Small Models (Efficient Inference), Token Merging/Pruning (Efficient Input).
+- <strong style="font-size:15px;color:#8aa371">Efficient (Large) Multimodal Models:</strong> Parameter-Efficient Fine-Tuning (PEFT) (Efficient Training), Distilled/Small Models (Efficient Inference), Token Merging/Pruning (Efficient Input).
+  
+- <strong style="font-size:15px;color:#8aa371">(Large) Multimodal Models Generation:</strong> Multimodal Chatbot, Visual Programming, Embodied Agent.
 
 My current research experience comprises of **Intelligent Surveillance Systems**, **Image/Video Understanding**, **Multimodal Learning** and **PEFT** including:
 
