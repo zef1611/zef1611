@@ -1,6 +1,6 @@
 <h2><em> Hi, I'm Huy Le :wave: </em></h2>
 
--🌱 I’m currently an AI Research Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), ex-AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
+-🌱 Previous journey: AI Research Resident at [FPT Software AI Center](https://fpt-aicenter.com/ai-residency/) (AIC), AI Engineer at Data & AI Lab (DAL), [VNG Corporation](https://www.vng.com.vn/).
 
 ### 🔭 Research Interests
 - <strong style="font-size:15px;color:#8aa371">Multimodal Models Reasoning & Understanding:</strong> Multimodal Alignment, Representation Learning, Structured Representation, Compositional Reasoning, and Fine-grained Understanding.
