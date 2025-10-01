@@ -1,4 +1,4 @@
-<h2><em> Hi, I'm Huy Le :wave: </em></h2>
+<h2><em> Hi, I'm Huy :wave: </em></h2>
 
 <b>Master's student at <a href="https://mila.quebec/en">Mila – Quebec AI Institute</a> and <a href="https://www.umontreal.ca/en/">University of Montreal</a>.</b> 
 
